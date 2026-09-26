@@ -3,4 +3,4 @@ RESOLUSI SAMUEL
 - Belajar cara membuat AI, design graphic, DKV, dan cyber security dalam setahun
 - Mengatasi sikap malas
 - Belajar public speaking pakai bahasa indonesia dan inggris
-- Update tampilan uang kas di google spreadsheet
+- Membuat sebuah game
